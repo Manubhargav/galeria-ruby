@@ -586,7 +586,7 @@ GEM
     mustermann (1.0.2)
     pg (1.0.0)
     pg (1.0.0-x64-mingw32)
-    rack (2.0.5)
+    rack (2.0.8)
     rack-protection (2.0.1)
       rack
     rake (12.3.1)
